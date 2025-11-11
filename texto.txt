@@ -1,0 +1,3 @@
+Este é um arquivo de exemplo.
+Este arquivo serve para testar a frequência das palavras.
+A palavra arquivo aparece várias vezes neste arquivo.
